@@ -14,5 +14,7 @@ What is happening underneath the hood?
 Test_HFGF script will call the main code of the paper named main_HFGF and will send 4 different testing functions 
 and return the information needed to construct the table. Inside the main_HFGF, there is a call to Armijo function to obtain the step size alpha.
 
+Reference:
+https://www.sciencedirect.com/science/article/abs/pii/S0098135420303562 
 Contact information:
 atrashabdulkarim@gmail.com
