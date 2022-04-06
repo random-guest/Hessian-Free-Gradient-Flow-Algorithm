@@ -3,8 +3,8 @@ This folder contains all the functions and scripts used to implement the researc
 "A Hessian-Free Gradient Flow (HFGF) method for the optimization of deep learning neural networks".
 
 # How to run the code?
-In order to test the code, and obtain the result which is Table 2 in the main research paper, which can be found at
-download this folder, add its path to Matlab, and simply run Test_HFGF script.
+In order to test the code, and obtain the result which is Table 2 in the main research paper, which can be accessed below,
+download this folder, add its path to the Matlab, and simply run Test_HFGF script.
 
 # Note:
 Due to the limited access to a high computational power machine, the high dimensional functions were not tested.
